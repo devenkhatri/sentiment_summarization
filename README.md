@@ -1,9 +1,14 @@
-# Backend
+# genai-app-boilerplate
+
+- App used as boilerplate & clone the app modify as per your requiremnt.
+
+
+## Backend
 
 - Backend directory used to implement backend APIs using Python.
 
 
-# Frontend
+## Frontend
 
 - Frontend directory used to implement UI using NextJs.
 - MUI library used for design and utilize built in mui components. ([MUI Guide](https://mui.com/material-ui/all-components))
