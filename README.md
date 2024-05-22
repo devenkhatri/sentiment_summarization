@@ -5,7 +5,7 @@
 
 ## Backend
 
-- Backend directory used to implement backend APIs using Python.
+- Backend directory used to implement backend APIs using Python .
 
 
 ## Frontend
