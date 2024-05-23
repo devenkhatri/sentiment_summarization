@@ -1,4 +1,4 @@
-# genai-app-boilerplate
+# sentiment_summarization
 
 - App used as boilerplate & clone the app modify as per your requiremnt.
 
