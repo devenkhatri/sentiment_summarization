@@ -5,7 +5,8 @@
 ## Steps needs to perform After clone boilerplate
 
 - Replace stack-name in project ```genai-app-boilerplate``` to your ```PROJECT_NAME```.
-
+- Create ```.env.development``` file which will be use varible define in ```.env-example``` and values which generated as output while deploying backend.
+***Note :*** Please do not add any ```.env``` files into git commit.
 
 ## Required Versions install on system
 

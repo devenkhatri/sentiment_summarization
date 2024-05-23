@@ -1,8 +1,6 @@
 ## Steps needs to perform After clone boilerplate
-
-1. Replace stack-name in project ```genai-app-boilerplate``` to your ```PROJECT_NAME```.
-
-1. Add you new module under ```src\``` as similiar as ```helloWorld``` folder.
+- Replace stack-name in project ```genai-app-boilerplate``` to your ```PROJECT_NAME```.
+- Add you new module under ```src\``` as similiar as ```hello_world``` folder.
 
 
 ## Deploy the application with AWS SAM
@@ -41,6 +39,12 @@ Description         -
 Value               https://abcd1234.execute-api.us-east-1.amazonaws.com/dev/
 -------------------------------------------------------------------------------
 ```
+***Note :*** Make sure this output will be handy because it will use start ```Frontend``` project.
+
+1. After sam deployed, you need to add user into created userPool(ex. under ```us-east-1_gxKtRocFs```) which mentioned in output.
+
+***Note :*** Only that user will be able to login & access APIs into ```Frontend``` project.
+
 
 ## Sync
 
